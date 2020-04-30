@@ -1,6 +1,5 @@
 # Yasir Hassan
-# CS 4332 AI
-# Project 2 - Face Detection
+# Face Detection
 # This program builds video from
 # frame-images, in a processed “P2E_S5_C1” file.
 # The program utilizes the python programming
